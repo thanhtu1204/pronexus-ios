@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='Demo LayoutTests.xctest' tests='3' failures='0'>
+  <testsuite name='Demo_LayoutUITests.Demo_LayoutUITests' tests='2' failures='0'>
+    <testcase classname='Demo_LayoutUITests.Demo_LayoutUITests' name='testExample' time='3.034'/>
+    <testcase classname='Demo_LayoutUITests.Demo_LayoutUITests' name='testLaunchPerformance' time='15.775'/>
+  </testsuite>
+  <testsuite name='Demo_LayoutTests.Demo_LayoutTests' tests='1' failures='0'>
+    <testcase classname='Demo_LayoutTests.Demo_LayoutTests' name='testViewController' time='0.160'/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978965227430-6m6psb70o3vctngkeoenjhh2cc5o56v5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978965227430-6m6psb70o3vctngkeoenjhh2cc5o56v5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAojfLLXtIZJhoBt_FhiFfbUBZlmen_Bg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978965227430</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.pronexus.www</string>
+	<key>PROJECT_ID</key>
+	<string>pronexus-a437d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pronexus-a437d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978965227430:ios:1d1ef78443ca634f861167</string>
+</dict>
+</plist>

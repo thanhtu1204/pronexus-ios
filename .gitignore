@@ -1,0 +1,33 @@
+Pods/
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-acknowledgements.markdown
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-acknowledgements.plist
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-frameworks-Debug-input-files.xcfilelist
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-frameworks-Debug-output-files.xcfilelist
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-frameworks-Release-input-files.xcfilelist
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-frameworks-Release-output-files.xcfilelist
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce-frameworks.sh
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce.debug.xcconfig
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo Ecommerce/Pods-Demo Ecommerce.release.xcconfig
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo EcommerceTests/Pods-Demo EcommerceTests.debug.xcconfig
+/Demo Projects/Demo Ecommerce/Pods/Target Support Files/Pods-Demo EcommerceTests/Pods-Demo EcommerceTests.release.xcconfig
+/Demo Projects/Demo Ecommerce/Demo Ecommerce.xcworkspace/xcuserdata/thanhcto.xcuserdatad/UserInterfaceState.xcuserstate
+/Demo Projects/Demo Ecommerce/Demo Ecommerce.xcworkspace/xcuserdata/thanhcto.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+/Demo Projects/Demo Ecommerce/ProNexus.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+/ProNexus App/Pods/SwiftyUserDefaults/
+/ProNexus App/Pods/
+/ProNexus App/ProNexus.xcworkspace/xcuserdata/tudevapp.xcuserdatad/IDEFindNavigatorScopes.plist
+/ProNexus App/ProNexus.xcworkspace/xcuserdata/thanhcto.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+/ProNexus App/ProNexus.xcworkspace/xcuserdata/thanhcto.xcuserdatad/xcdebugger/Expressions.xcexplist
+/ProNexus App/ProNexus.xcodeproj/xcuserdata/thanhcto.xcuserdatad/xcschemes/xcschememanagement.plist
+*.xcsettings
+*.xcbkptlist
+/ProNexus App/ProNexus.xcodeproj/xcuserdata/tudevapp.xcuserdatad/xcschemes/xcschememanagement.plist
+/ProNexus App/ProNexus.xcodeproj/xcuserdata/imac.xcuserdatad/xcschemes/xcschememanagement.plist
+*.resolved
+/ProNexus App/build/
+/ProNexus App/ProNexus.xcodeproj/project.xcworkspace/xcuserdata/thanhcto.xcuserdatad/xcdebugger/Expressions.xcexplist
+/ProNexus App/.idea/.gitignore
+/ProNexus App/.idea/ProNexus App.iml
+/ProNexus App/.idea/modules.xml
+/ProNexus App/.idea/vcs.xml
